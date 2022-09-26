@@ -1,4 +1,6 @@
 # task-manager-api-tut
 
-View app at:
-https://elpis-task-manager-tut.herokuapp.com/
+
+Live version is not available
+
+Start command is: `npm start`
